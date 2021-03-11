@@ -15,7 +15,6 @@
 		D539CB8E25FA42E6001200B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D539CB8C25FA42E6001200B0 /* LaunchScreen.storyboard */; };
 		D539CB9925FA42E6001200B0 /* giftestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D539CB9825FA42E6001200B0 /* giftestTests.swift */; };
 		D539CBA425FA42E6001200B0 /* giftestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D539CBA325FA42E6001200B0 /* giftestUITests.swift */; };
-		D539CBB525FA4303001200B0 /* cracker.gif in Resources */ = {isa = PBXBuildFile; fileRef = D539CBB425FA4303001200B0 /* cracker.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		D539CB9F25FA42E6001200B0 /* giftestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = giftestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D539CBA325FA42E6001200B0 /* giftestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = giftestUITests.swift; sourceTree = "<group>"; };
 		D539CBA525FA42E6001200B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D539CBB425FA4303001200B0 /* cracker.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = cracker.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +102,6 @@
 				D539CB8125FA42E3001200B0 /* AppDelegate.swift */,
 				D539CB8325FA42E3001200B0 /* SceneDelegate.swift */,
 				D539CB8525FA42E3001200B0 /* ViewController.swift */,
-				D539CBB425FA4303001200B0 /* cracker.gif */,
 				D539CB8725FA42E3001200B0 /* Main.storyboard */,
 				D539CB8A25FA42E5001200B0 /* Assets.xcassets */,
 				D539CB8C25FA42E6001200B0 /* LaunchScreen.storyboard */,
@@ -236,7 +233,6 @@
 			files = (
 				D539CB8E25FA42E6001200B0 /* LaunchScreen.storyboard in Resources */,
 				D539CB8B25FA42E5001200B0 /* Assets.xcassets in Resources */,
-				D539CBB525FA4303001200B0 /* cracker.gif in Resources */,
 				D539CB8925FA42E3001200B0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
